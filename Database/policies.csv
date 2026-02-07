@@ -1,0 +1,4 @@
+policy_id,max_compensation,income_condition
+1,20000,middle
+2,6500,low
+3,20000,high

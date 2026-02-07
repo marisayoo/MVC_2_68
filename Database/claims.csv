@@ -1,0 +1,8 @@
+claim_id,claimant_id,submit_date,status
+10000001,C0001,2/1/2026 10:30,calculated
+10000002,C0002,2/2/2026 14:15,calculated
+10000003,C0003,2/3/2026 9:45,calculated
+<<<<<<< HEAD
+10000004,11111111,2026-02-07 17:07:15,calculated
+=======
+>>>>>>> 0409ccb4a9e91e670333d08751fe19d297c2ff8a

@@ -1,0 +1,8 @@
+claimant_id,first_name,last_name,monthly_income,claimant_type
+C0001,สมชัย,ใจดี,5000,low
+C0002,สมหญิง,ใจเย็น,15000,middle
+C0003,สมศักดิ์,ใจร้อน,80000,high
+<<<<<<< HEAD
+11111111,มาริสา,ยูงศิริกาญจน์,15000.0,middle
+=======
+>>>>>>> 0409ccb4a9e91e670333d08751fe19d297c2ff8a
